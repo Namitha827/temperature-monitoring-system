@@ -27,4 +27,8 @@ One of the strengths of this project is its simplicity and versatility. By chang
 
 In conclusion, this project successfully demonstrates how an Arduino can be used to create a practical and interactive temperature monitoring system using a sensor and LCD display. It showcases skills in sensor interfacing, analog-to-digital conversion, and LCD programming. The deliverables of this project include the complete circuit design, Arduino code, and output demonstration via simulation or real-time testing, making it a well-rounded embedded systems project for internship evaluation.
 
+*OUTPRT*
+
+<img width="1366" height="546" alt="Image" src="https://github.com/user-attachments/assets/4ef63594-e983-49b6-b2c2-003797184ce9" />
+
 
