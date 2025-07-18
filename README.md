@@ -30,5 +30,8 @@ In conclusion, this project successfully demonstrates how an Arduino can be used
 *OUTPUT*
 
 
+<img width="1366" height="546" alt="Image" src="https://github.com/user-attachments/assets/ecb32881-6dac-4bf3-a4f0-68bdcf33ec7c" />
+
+
 
 
